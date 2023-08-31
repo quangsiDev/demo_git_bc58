@@ -11,3 +11,5 @@ git push -u origin master
 ++ đẩy lần 2 trở đi
 git push
 
++tạo nhánh
+git checkout -b login
