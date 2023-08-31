@@ -1,0 +1,3 @@
+- Khởi tạo dự án: => git init
+
+- Liên kết giữa local và remote :git remote add origin + url
